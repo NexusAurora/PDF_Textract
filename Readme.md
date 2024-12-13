@@ -1,12 +1,7 @@
 # README.md
 
 ## AI-Based EOB Document Processing System  
-**Assignment for:** AI Engineer (Cloud API Integration) (2nd Round) - Sayanti Chatterjee
-**Company:** Gowebbo & Company / Goranggo & Company  
 
----
-
-### **Introduction**  
 This project is designed to process Explanation of Benefits (EOB) documents using AI and cloud-based APIs. The system extracts critical information from PDF documents, structures the data, and provides a clean, accurate output. The extracted fields enable healthcare providers to efficiently manage payments and insurance coverage data.
 
 ---
@@ -123,9 +118,4 @@ The solution uses **AWS Textract** for Optical Character Recognition (OCR) and t
 ---
 
 ### **Acknowledgments**  
-This project was developed by **Sayanti Chatterjee** as part of the **AI Engineer (Cloud API Integration)** assignment for **Gowebbo & Company / Goranggo & Company**.  
-
----  
-
-**Author:** Sayanti Chatterjee  
-**Date:** November 16, 2024  
+This project was developed by **Sayanti Chatterjee**.  
